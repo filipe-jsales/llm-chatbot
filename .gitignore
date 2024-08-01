@@ -1,0 +1,17 @@
+src/data
+**/.files
+src/vectorstores
+**/__pycache__ 
+**/.DS_Store
+.DS_Store
+src/.chainlit/config.toml
+src/database/database.db
+src/database
+**/database
+chainlit.md
+storage
+.chainlit/
+.files
+poetry.lock
+**/*.log
+.venv/
